@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Johnathan Pham
+# Data Scientist
 
 You can use the [editor on GitHub](https://github.com/johnny-pham23/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Stream Candy Sugar Pop M/V - Astro ](https://www.youtube.com/watch?v=5huBq36OLDs)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
