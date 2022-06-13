@@ -7,6 +7,6 @@
 ### Spatial Analysis
 * Query wildfire data to obtain logitudes and latitudes of counties of USA. 
 * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
-<img src="https://github.com/johnny-pham23/portfolio/blob/main/projects/wildfire-analysis/images/wildfire_spatial_analysis100k.png" width=300 align=right>
+![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
 ### Temporal Analysis
 * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
