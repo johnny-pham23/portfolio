@@ -3,10 +3,9 @@
 - Cal Poly Pomona, Bachelor of Science - Chemistry
 
 # About
-I am from Orange, California, where the orange groves used to dominate the city. During my undergraduate carrer, I worked in a lab doing benchtop work testing electroplating solutions to ensure efficent electroplating for our aerospace and electronics customers. My first job after geting by BS, I worked at Beckman Coulter for 9 months as a Quality Assurance Technichan handling equipment shipping for engineers. Through that job, I decided to make a drastic change in my carrer towards being a Data Scientist where I got accepted into UC Riverside's graduate program in Data Science. 
+I am from Orange, California, where the orange groves used to dominate the city. During my undergraduate carrer, I worked in a lab doing benchtop work testing electroplating solutions to ensure efficent electroplating for our aerospace and electronics customers. My first job after geting by BS, I worked at Beckman Coulter Inc. for 9 months as a Quality Assurance Technichan handling equipment shipping logistics for engineers. Through my experience at Beckamn Coulter, I decided to make a drastic change in my carrer towards being a Data Scientist. I am now at UC Riverside's graduate program in Data Science working to achevie my goal. My past experience as a chemist has provided me with a strong foundation of analytical insight on data and although my data science career is just beginning, I will continue to build my knowledge in data science. 
 
-
-With life being fast-paced with instant results, I grew to enjoy gardening (punn intended). Gardening makes me appreciate patience and consistency when taking care of plants. Seeing the wonderful blooms of plumeria and snapdragon flowers to growing my own peppers and herbs.  
+With life being fast-paced with instant results, I grew to enjoy gardening (punn intended). Gardening makes me appreciate patience and consistency when taking care of plants. Seeing the wonderful blooms of plumeria and snapdragon flowers to growing my own peppers and herbs. I am also an avid viewer of the MCU. My favorite Marvel character is Wanda Maximoff and she did nothing wrong.  
 
 
 # Projects
