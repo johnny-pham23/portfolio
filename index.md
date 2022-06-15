@@ -1,4 +1,4 @@
-## Johnathan Pham
+## Johnny Pham
 # Data Scientist
 
 # Projects
