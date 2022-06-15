@@ -1,9 +1,9 @@
 # Data Scientist
-## UC Riverside, Master of Science in Engineering - Data Science (expected completion June 2023)
-## Cal Poly Pomona, Bacelor of Science - Chemistry
+- UC Riverside, Master of Science in Engineering - Data Science (expected completion June 2023)
+- Cal Poly Pomona, Bachelor of Science - Chemistry
 
 # About
-Talk about yourself
+I am from Orange, California, where the orange groves used to dominate the city. During my undergraduate carrer, I worked in a lab doing benchtop work testing electroplating solutions to ensure efficent electroplating for our aerospace and electronics customers. My first job after geting by BS, I worked at Beckman Coulter for 9 months as a Quality Assurance Technichan handling equipment shipping for engineers. Through that job, I decided to make a drastic change in my carrer towards being a Data Scientist where I got accepted into UC Riverside's graduate program in Data Science. 
 
 
 With life being fast-paced with instant results, I grew to enjoy gardening (punn intended). Gardening makes me appreciate patience and consistency when taking care of plants. Seeing the wonderful blooms of plumeria and snapdragon flowers to growing my own peppers and herbs.  
