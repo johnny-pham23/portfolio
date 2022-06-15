@@ -11,13 +11,25 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 # Projects
 ## Wildfire Data Analysis
 * For the completion of Intro to Big Data Management 
-* Using Spark API transform and clean data to be able to perform SQL queries on them.
+* As a group, we used Spark API transform and clean data to be able to perform SQL queries on them.
 ### Spatial Analysis
   * Query wildfire data to obtain logitudes and latitudes of counties of USA. 
   * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
 
 ![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
 ### Temporal Analysis
+  * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
+![](projects/wildfire-analysis/images/Temporal Analysis1.png)
+
+## Stroke Prediction
+* For the completion of Data Mining Techniques 
+* As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke.
+### Random Foreset
+  * Query wildfire data to obtain logitudes and latitudes of counties of USA. 
+  * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
+
+![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
+### Logistic Regression
   * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
 ![](projects/wildfire-analysis/images/Temporal Analysis1.png)
 
