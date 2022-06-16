@@ -23,7 +23,11 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 
 ## Stroke Prediction
 * For the completion of Data Mining Techniques 
-* As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke.
+* As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke. 
+### Preprocessing Data
+[Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
+- We explored the patient dataset to search for features that have null/missing values. 
+- Using boxplots we can look at each feature to see if there are any outliers. 
 ### Random Foreset
   * Query wildfire data to obtain logitudes and latitudes of counties of USA. 
   * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
@@ -36,3 +40,4 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 # Relevant Coursework
 - Intro to Big Data Management 
 - Data Mining Techniques
+
