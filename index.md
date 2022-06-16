@@ -25,17 +25,17 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 * For the completion of Data Mining Techniques 
 * As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke. 
 ### Preprocessing Data
-[Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
-- We explored the patient dataset to search for features that have null/missing values. 
-- Using boxplots we can look at each feature to see if there are any outliers. 
+We explored the patient dataset to search for features that have null/missing values. Using boxplots we can look at each feature to see if there are any outliers. We then encoded and normalized the features. During this phase, we also noticed how imbalanced the dataset was and used SMOTE to avoid oversampling the minority class.
 ### Random Foreset
-  * Query wildfire data to obtain logitudes and latitudes of counties of USA. 
-  * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
-
-![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
-### Logistic Regression
-  * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
-![](projects/wildfire-analysis/images/Temporal Analysis1.png)
+- I was tasked to create a random forest algorithm. Random Forest is a ensemble method were many decision trees are created with randomized features.  
+- Maximizing the information gain we pick the highest gain to split.
+- To maximize information gain, we need a low entropy node, meaning there are more similar data points.
+- ![Information Gain Formula](https://user-images.githubusercontent.com/107296905/174012629-d4bd4c6c-b326-43be-9907-0a735eba10eb.png)
+ 
+### Additional Information
+Other methods I was exposed to in this project were K-nearest neighbors, SVM, Naive Bayes, and Logistic Regression.
+I was the lead on writing our report in a scientific format. Below is a link to view our work. 
+[Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
 
 # Relevant Coursework
 - Intro to Big Data Management 
