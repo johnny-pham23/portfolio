@@ -35,7 +35,7 @@ We explored the patient dataset to search for features that have null/missing va
 ### Additional Information
 Other methods I was exposed to in this project were K-nearest neighbors, SVM, Naive Bayes, and Logistic Regression.
 I was the lead on writing our report in a scientific format. Below is a link to view our work. 
-[Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
+[Download Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
 
 # Relevant Coursework
 - Intro to Big Data Management 
