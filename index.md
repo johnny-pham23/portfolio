@@ -14,9 +14,11 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 * I was tasked to do a temporal analysis of the wildfire data. I aided in the other tasks by helping troubleshoot errors my groupmates had. Other tasks were data preparation and Spatial Analysis.
 * As a group, this project was coded in Scala and we used Spark API transform and clean data to be able to perform SQL queries on them.
 * This project was completed in a week via Zoom.
+
 ### Temporal Analysis
   * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
 ![](projects/wildfire-analysis/images/Temporal Analysis1.png)
+
 ### Data Preparation
 The first task is to prepare the data for processing. This includes two major steps. First, introduce a new attribute County that indicates the county at which each wildfire happened. Second, convert the file into a column-oriented Parquet format to speed up the analysis.
 
@@ -28,17 +30,19 @@ The first task is to prepare the data for processing. This includes two major st
 
 ### Spatial Analysis
   * Query wildfire data to obtain fire intensities of counties of California. 
-  * Equijoin wildfire data to counties data by the key-value counties shared by both datasets. 
-  * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
+  * Equi-join wildfire data to counties data by the key-value counties shared by both datasets. 
+  * Used QGIS to visualize the fire intensites of each county.
 
 ![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
 
 
 ## Stroke Prediction
 * For the completion of Data Mining Techniques 
-* As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke. 
+* As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke.
+ 
 ### Preprocessing Data
 We explored the patient dataset to search for features that have null/missing values. Using boxplots we can look at each feature to see if there are any outliers. We then encoded and normalized the features. During this phase, we also noticed how imbalanced the dataset was and used SMOTE to avoid oversampling the minority class.
+
 ### Random Foreset
 - I was tasked to create a random forest algorithm. Random Forest is a ensemble method were many decision trees are created with randomized features.  
 - Maximizing the information gain we pick the highest gain to split.
@@ -46,10 +50,15 @@ We explored the patient dataset to search for features that have null/missing va
 - ![Information Gain Formula](https://user-images.githubusercontent.com/107296905/174012629-d4bd4c6c-b326-43be-9907-0a735eba10eb.png)
  
 ### Additional Information
-Other methods I was exposed to in this project were K-nearest neighbors, SVM, Naive Bayes, and Logistic Regression.
-I was the lead on writing our report in a scientific format. Below is a link to view our work. 
-[Download Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
+- Other methods I aided in this project were K-nearest neighbors, SVM, Naive Bayes, and Logistic Regression.
+- I was the lead on writing our report in a scientific format. Below is a link to view our work. 
+- [Download Stroke Prediction Scientific Report](https://github.com/johnny-pham23/portfolio/files/8916226/Stroke.Prediction.Final.Final.pdf)
 
+## In-Progress Projects
+### Microgrid Optimization
+- Status: Data is being cleaned to account for missing data. Data is also recorded in 15-minute intervals and will aggregate the data to daily intervals. 
+- Goal: Using time series analysis on electrical load profiles to optimize switching between grid and island-mode electricity. Scope of prediction window will range from daily to weekly.  
+  
 # Relevant Coursework
 - Intro to Big Data Management 
 - Data Mining Techniques
