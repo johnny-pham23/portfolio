@@ -17,6 +17,15 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 ### Temporal Analysis
   * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
 ![](projects/wildfire-analysis/images/Temporal Analysis1.png)
+### Data Preparation
+The first task is to prepare the data for processing. This includes two major steps. First, introduce a new attribute County that indicates the county at which each wildfire happened. Second, convert the file into a column-oriented Parquet format to speed up the analysis.
+
+* Parse and load the CSV file using the Dataframe API.
+* Introduce a geometry attribute that represents the location of each wildfire. (ST_CreatePoint function)
+* Dealing with multiple values in a single column. Convert fire radiative power that sometimes has 2 values stored and converted from float to double. 
+* Use the attribute GEOID from the county to introduce a new attribute County in the wildfire. We couldn't use the county name because it is not unique across the 
+* Output the wildfire data as a parquet file.
+
 ### Spatial Analysis
   * Query wildfire data to obtain fire intensities of counties of California. 
   * Equijoin wildfire data to counties data by the key-value counties shared by both datasets. 
