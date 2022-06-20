@@ -1,5 +1,5 @@
 # Data Scientist
-- UC Riverside, Master of Science in Engineering - Data Science (expected completion Spring 2023)
+- UC Riverside, Master of Science in Engineering - Data Science (Spring 2023expected completion)
 - Cal Poly Pomona, Bachelor of Science - Chemistry
 
 # About Me
