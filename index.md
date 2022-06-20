@@ -3,24 +3,27 @@
 - Cal Poly Pomona, Bachelor of Science - Chemistry
 
 # About Me
-I am from Orange, California, where the orange groves used to dominate the city. During my undergraduate carrer, I worked in a lab doing benchtop work testing electroplating solutions to ensure efficent electroplating for our aerospace and electronics customers. My first job after geting by BS, I worked at Beckman Coulter Inc. for 9 months as a Quality Assurance Technichan handling equipment shipping logistics for engineers. Through my experience at Beckamn Coulter, I decided to make a drastic change in my carrer towards being a Data Scientist. I am now at UC Riverside's graduate program in Data Science working to achevie my goal. My past experience as a chemist and medical diagnostics has provided me with a strong foundation of the analytical insight on data. Although my data science career is just beginning, I will continue to build my knowledge in data science. 
+I am from Orange, California, where the orange groves used to dominate the city. During my undergraduate carrer, I worked in a lab doing benchtop work testing electroplating solutions to ensure efficent electroplating for our aerospace and electronics customers. My first job after geting by BS, I worked at Beckman Coulter Inc. for 9 months as a Quality Assurance Technichan handling equipment shipping logistics for engineers globally. Through my experience at Beckamn Coulter, I decided to make a drastic change in my carrer towards being a Data Scientist. I am now at UC Riverside's graduate program in Data Science working to achevie my goal. My past experience in chemistry and medical diagnostics has provided me with a strong foundation of the analytical insight on data. Although my data science career is just beginning, I will continue to build my knowledge in data science. 
 
-With life being fast-paced with instant results, I grew to enjoy gardening (punn intended). Gardening makes me appreciate patience and consistency when taking care of plants. Seeing the wonderful blooms of plumeria and snapdragon flowers to growing my own peppers and herbs. I am also an avid viewer of the MCU. My favorite Marvel character is Wanda Maximoff and she did nothing wrong.  
+With life being fast-paced with instant results, I grew to enjoy gardening (punn intended). Gardening makes me appreciate patience and consistency when taking care of plants. Seeing the wonderful blooms of plumeria and snapdragon flowers to growing my own peppers and herbs. I am also an avid viewer of the MCU. My favorite Marvel character is Wanda Maximoff and she was just being reasonable.  
 
 
 # Projects
 ## Wildfire Data Analysis
 * For the completion of Intro to Big Data Management 
+* I was tasked to do a temporal analysis of the wildfire data. I aided in the other tasks by helping troubleshoot errors my groupmates had. Other tasks were data preparation and Spatial Analysis.
 * As a group, this project was coded in Scala and we used Spark API transform and clean data to be able to perform SQL queries on them.
+* This project was completed in a week via Zoom.
+### Temporal Analysis
+  * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
+![](projects/wildfire-analysis/images/Temporal Analysis1.png)
 ### Spatial Analysis
   * Query wildfire data to obtain fire intensities of counties of California. 
   * Equijoin wildfire data to counties data by the key-value counties shared by both datasets. 
   * Used QGIS to visualize the fire intensites of each county using Beast to convert logitudes and latitudes to geometry datatype.
 
 ![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
-### Temporal Analysis
-  * Query wildfire data to obtain monthly total of fire intensities. Using Excel to visualize trends. 
-![](projects/wildfire-analysis/images/Temporal Analysis1.png)
+
 
 ## Stroke Prediction
 * For the completion of Data Mining Techniques 
