@@ -9,7 +9,7 @@ With life being fast-paced with instant results, I grew to enjoy gardening (punn
 
 
 # Projects
-## ![Wildfire Data Analysis](https://github.com/johnny-pham23/Wildfire-Analysis) 
+## [Wildfire Data Analysis](https://github.com/johnny-pham23/Wildfire-Analysis) 
 * For the completion of Intro to Big Data Management 
 * I was tasked to do a temporal analysis of the wildfire data. I aided in the other tasks by helping troubleshoot errors my groupmates had. Other tasks were data preparation and Spatial Analysis.
 * As a group, this project was coded in Scala and we used Spark API transform and clean data to be able to perform SQL queries on them.
@@ -36,7 +36,7 @@ The first task is to prepare the data for processing. This includes two major st
 ![](projects/wildfire-analysis/images/spatial_analysis100klegendsmall.png)
 
 
-## ![Stroke Prediction](https://github.com/johnny-pham23/RandomForest)
+## [Stroke Prediction](https://github.com/johnny-pham23/RandomForest)
 * For the completion of Data Mining Techniques 
 * As a group, we experimented with different classification methods to predict if a patient was at risk of having a stroke.
  
